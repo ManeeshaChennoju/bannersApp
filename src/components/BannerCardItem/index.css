@@ -54,3 +54,10 @@
   border-radius: 10px;
   font-family: 'Roboto';
 }
+
+.image {
+  height: 80px;
+  width: 80px;
+  display: flex;
+  align-self: flex-end;
+}
